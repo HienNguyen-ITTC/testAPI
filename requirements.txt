@@ -1,2 +1,7 @@
 fastapi ~= 0.103
 uvicorn[standard]
+torch
+Pillow
+vietocr
+torchvision
+httpx
